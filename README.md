@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @The-BeNi, call me Beni. Im from Hungary but I live in Germany. I also speak English.
-- 👀 I’m interested in Software/Game-Engineering
-- 🌱 I’m currently learning IT
+- 👀 I’m interested in Software, App and Game Development
 - 💞️ I’m looking to collaborate on creative Projects
 - 📫 How to reach me: Join my Discord: https://discord.gg/NaAFJAkZf9
 
